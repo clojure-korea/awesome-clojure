@@ -13,3 +13,4 @@
 
 * [ProtoPie](https://www.protopie.io)
 * [GreenLabs](https://www.farmmorning.com)
+* [GoodLifeLab](https://goodlifelab.co.kr)
